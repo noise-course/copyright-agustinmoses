@@ -22,8 +22,8 @@ YT usually lets copyright owners decide whether and how a video with their mater
 Yes
 
 # Task 2: Fair Use Experiments
-## Raw copyrighted clip:\
-I uploaded 2 clips( 10 sec and 30+ sec) of The Lion King 2 which contains part of the music. After uploading, the video immediately received a copyright claim.\
+## Raw copyrighted clip:##
+I uploaded 2 clips( 10 sec and 30+ sec) of The Lion King 2 which contains part of the music. After uploading, the video immediately received a copyright claim.
 
 <img width="1523" height="280" alt="10 Sec Clip Upload" src="https://github.com/user-attachments/assets/84392e1f-fa03-4c0c-b5d3-3bc9bcd19dae" />
 
@@ -35,13 +35,29 @@ I uploaded 2 clips( 10 sec and 30+ sec) of The Lion King 2 which contains part o
 
 <img width="413" height="653" alt="30+ Sec" src="https://github.com/user-attachments/assets/8be6ac75-a45f-488a-b955-e0aa7b774d0b" />
 
-## Educational Use ##:\
+## Educational Use ##:
 
-Next I upload a modified version of the 30+ sec clip with commentary on the musical structure. To disclose, I used AI for the commentary since I know nothing about musical structure. Prompt used: explain "We are one" in Lion King 2 musical structure in a couple of paragraphs. The video received the same copyright claim which I suspect is due to the music segments clips being too long.\
+Next I upload a modified version of the 30+ sec clip with commentary on the musical structure. To disclose, I used AI for the commentary since I know nothing about musical structure. Prompt used: explain "We are one" in Lion King 2 musical structure in a couple of paragraphs. The video received the same copyright claim which I suspect is due to the music segments clips being too long.
 
 <img width="1616" height="98" alt="image" src="https://github.com/user-attachments/assets/387b8915-0a16-48ac-9ec5-e94a887e07b0" />
 
 <img width="447" height="811" alt="image" src="https://github.com/user-attachments/assets/abc283e6-d1c3-4a91-aa8e-5d0002455d77" />
-\
+
 In both cases I could try to dispute the claim, but the video was able to be kept up with no restrictions.
 
+# Task 3: AI-Generated Content Investigation#
+## Direct Reference:##
+<img width="1125" height="623" alt="image" src="https://github.com/user-attachments/assets/ab16b1e9-0045-4c0b-a097-7bc2de88104d" />
+
+<img width="1629" height="112" alt="image" src="https://github.com/user-attachments/assets/5844a579-adec-4a1f-a6bd-0ab304ec0b18" />
+## Style mimicry:##
+<img width="1114" height="629" alt="image" src="https://github.com/user-attachments/assets/6467d91f-6ec7-423b-a603-17c3244b45f9" />
+**Research Findings:**
+-What does the AI tool’s terms of service say about copyright?
+Users can't upload copyrighted content without permission.
+-Who owns the copyright to AI-generated content? (you, the AI company, the creators of training data, public domain/no one?)
+Users own the copyright to AI-generated content.
+-What is your platform’s stated policy on AI-generated content?
+YouTube allows AI-generated content but requires disclosure for realistic altered/synthetic media.
+
+# Task 4:Legal Analysis #
