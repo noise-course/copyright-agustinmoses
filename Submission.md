@@ -73,3 +73,13 @@ Google v. Oracle supports the commentary clip: declaring APIs (or short analytic
 
 **Gap Analysis:**
 Legal theory permits transformative educational uses (e.g., commentary on musical structure) per fair use, yet YouTube's policy flags all matches indiscriminately via Content ID fingerprints, ignoring context until disputed—creating a gap where raw clips get instant claims, but even modified ones do too if audio exceeds thresholds. The way enforcement was played reveals the widest gap: videos stayed up without blocks (just claims), allowing disputes, but no proactive fair use recognition. This heavily relies on uploaders counter-notifying (risking strikes).
+
+# Task 5: Appendix #
+
+**Task 3:**
+https://youtube.com/shorts/l7J2sKtEPBw
+https://youtube.com/shorts/EMSFS8pxZJk
+**Task 2:**
+https://youtu.be/l4pMJlzJgNw
+https://youtu.be/VF1dbHzLHlc
+https://youtu.be/M18JDMYEV60
