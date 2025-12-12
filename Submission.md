@@ -52,7 +52,9 @@ In both cases I could try to dispute the claim, but the video was able to be kep
 <img width="1629" height="112" alt="image" src="https://github.com/user-attachments/assets/5844a579-adec-4a1f-a6bd-0ab304ec0b18" />
 ## Style mimicry:##
 <img width="1114" height="629" alt="image" src="https://github.com/user-attachments/assets/6467d91f-6ec7-423b-a603-17c3244b45f9" />
+
 **Research Findings:**
+
 -What does the AI tool’s terms of service say about copyright?
 Users can't upload copyrighted content without permission.
 -Who owns the copyright to AI-generated content? (you, the AI company, the creators of training data, public domain/no one?)
