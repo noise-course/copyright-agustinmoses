@@ -55,11 +55,11 @@ In both cases I could try to dispute the claim, but the video was able to be kep
 
 **Research Findings:**
 
-- What does the AI tool’s terms of service say about copyright?
+- What does the AI tool’s terms of service say about copyright?\
 Users can't upload copyrighted content without permission.
-- Who owns the copyright to AI-generated content? (you, the AI company, the creators of training data, public domain/no one?)
+- Who owns the copyright to AI-generated content? (you, the AI company, the creators of training data, public domain/no one?)\
 Users own the copyright to AI-generated content.
-- What is your platform’s stated policy on AI-generated content?
+- What is your platform’s stated policy on AI-generated content?\
 YouTube allows AI-generated content but requires disclosure for realistic altered/synthetic media.
 
 # Task 4:Legal Analysis #
