@@ -62,4 +62,14 @@ Users own the copyright to AI-generated content.
 - What is your platform’s stated policy on AI-generated content?\
 YouTube allows AI-generated content but requires disclosure for realistic altered/synthetic media.
 
-# Task 4:Legal Analysis #
+# Task 4: Legal Analysis #
+
+**Fair Use Four Factors:** 
+The 10-sec and 30-sec clips of "We Are One" from The Lion King 2 fail fair use due to their commercial potential (even if unmonetized) and substantial use of creative core elements like the song's hook, with minimal transformation—pure reproduction weighs against fair use under factor one (purpose: not transformative, leaning commercial) and factor three (amount: heart of the work). As for the second experiment, the educational commentary version over the 30-second clip improves on factor one (non-commercial, which is arguabally transformative via analysis of musical structure), but factor three still hurts as it uses a lengthy excerpt (nearly the full chorus/refrain), and factor four risks market harm by supplanting clips viewers might seek officially; factor two (creative nature of song) universally disfavors fair use here.​
+
+
+**Case Law:**
+Google v. Oracle supports the commentary clip: declaring APIs (or short analytical uses) fair use when transformative for new functionality like education, as the clip adds structural breakdown without copying Oracle's full "range" (song).
+
+**Gap Analysis:**
+Legal theory permits transformative educational uses (e.g., commentary on musical structure) per fair use, yet YouTube's policy flags all matches indiscriminately via Content ID fingerprints, ignoring context until disputed—creating a gap where raw clips get instant claims, but even modified ones do too if audio exceeds thresholds. The way enforcement was played reveals the widest gap: videos stayed up without blocks (just claims), allowing disputes, but no proactive fair use recognition. This heavily relies on uploaders counter-notifying (risking strikes).
